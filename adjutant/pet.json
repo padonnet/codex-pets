@@ -1,6 +1,6 @@
 {
   "id": "adjutant",
   "displayName": "Adjutant",
-  "description": "A compact pixel-art sci-fi adjutant companion inspired by StarCraft Brood War, with a human face, black cybernetic headset, red status light, and green interface glow.",
+  "description": "A compact pixel-art adjutant codex pet inspired by StarCraft Brood War.",
   "spritesheetPath": "spritesheet.webp"
 }
