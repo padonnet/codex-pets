@@ -1,6 +1,6 @@
 # Adjutant
 
-A compact pixel-art sci-fi Adjutant companion for Codex, inspired by StarCraft: Brood War.
+A compact pixel-art Adjutant companion for Codex, inspired by StarCraft: Brood War. Adjutants are a form of non-sapient artificial intelligence utilized by the terrans.
 
 ## Install
 
